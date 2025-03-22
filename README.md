@@ -15,7 +15,3 @@ This module is intended to disable auto-update for the stockroom on the Realme C
 
 ## Download :
 To download this module, please go to the [Release page](https://github.com/KeishaXD/OTA-Update-disable-Realme-C21Y-/releases)
-
-
-> [!warning]
-This module is still in alpha/experimental status. A bootloop may occur when using this module.
