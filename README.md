@@ -6,7 +6,7 @@
 
 
 > [!warning]
-This module is still in alpha/experimental status. A bootloop may occur when using this module.
+This module is still in beta/experimental status. A bootloop may occur when using this module.
 
 
 # OTA Update Disable For Realme C21Y
